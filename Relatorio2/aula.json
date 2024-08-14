@@ -1,0 +1,38 @@
+[
+    {
+        "professor": {
+            "nome": "Marcelo"
+        },
+        "assunto": "Paradigmas da Programação",
+        "alunos": [
+            {"nome": "Alice"},
+            {"nome": "Bruno"},
+            {"nome": "Clara"},
+            {"nome": "Daniel"}
+        ]
+    },
+    {
+        "professor": {
+            "nome": "Renan"
+        },
+        "assunto": "Probabilidade",
+        "alunos": [
+            {"nome": "Eduardo"},
+            {"nome": "Fernanda"},
+            {"nome": "Gabriela"},
+            {"nome": "Hugo"}
+        ]
+    },
+    {
+        "professor": {
+            "nome": "Renzo"
+        },
+        "assunto": "Analise de Dados",
+        "alunos": [
+            {"nome": "Isabela"},
+            {"nome": "José"},
+            {"nome": "Alice"},
+            {"nome": "Bruno"}
+        ]
+    }
+]
