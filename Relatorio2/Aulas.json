@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "66bce528192f6f14fe49ea7b"
+  },
+  "professor": {
+    "nome": "Marcelo"
+  },
+  "assunto": "Paradigmas da Programação",
+  "alunos": [
+    {
+      "nome": "Alice"
+    },
+    {
+      "nome": "Bruno"
+    },
+    {
+      "nome": "Clara"
+    },
+    {
+      "nome": "Daniel"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "66bce528192f6f14fe49ea7c"
+  },
+  "professor": {
+    "nome": "Renan"
+  },
+  "assunto": "Probabilidade",
+  "alunos": [
+    {
+      "nome": "Eduardo"
+    },
+    {
+      "nome": "Fernanda"
+    },
+    {
+      "nome": "Gabriela"
+    },
+    {
+      "nome": "Hugo"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "66bce528192f6f14fe49ea7d"
+  },
+  "professor": {
+    "nome": "Renzo"
+  },
+  "assunto": "Analise de Dados",
+  "alunos": [
+    {
+      "nome": "Isabela"
+    },
+    {
+      "nome": "José"
+    },
+    {
+      "nome": "Alice"
+    },
+    {
+      "nome": "Bruno"
+    }
+  ]
+}]
