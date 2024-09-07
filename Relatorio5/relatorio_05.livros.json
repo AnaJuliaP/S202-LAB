@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "66dc9976ac451855ef5ac38a"
+  },
+  "titulo": "Extraordinario",
+  "autor": "R. J. Palacio",
+  "ano": 2012,
+  "preco": 44.95
+},
+{
+  "_id": {
+    "$oid": "66dc9c46ea9ddb3c29fb1426"
+  },
+  "titulo": "Entendendo Algoritmos",
+  "autor": "Aditya Y. Bhargava",
+  "ano": 2017,
+  "preco": 58.5
+}]
