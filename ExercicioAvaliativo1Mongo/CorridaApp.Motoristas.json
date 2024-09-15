@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "66e762af85b6225e46af315a"
+  },
+  "nota": "10",
+  "corridas": [
+    {
+      "nota": "8",
+      "distancia": "25",
+      "valor": "100",
+      "passageiro": {
+        "nome": "ana",
+        "documento": "152643"
+      }
+    },
+    {
+      "nota": "10",
+      "distancia": "6",
+      "valor": "15",
+      "passageiro": {
+        "nome": "ana",
+        "documento": "152643"
+      }
+    }
+  ]
+}]
